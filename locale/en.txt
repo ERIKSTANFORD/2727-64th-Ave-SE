@@ -1,0 +1,58 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Living Room
+
+### Title
+tour.name = 1234 N Test St
+
+## Skin
+
+### Multiline Text
+HTMLText_D2B297B3_CB74_ED64_41D0_E3C98E3E9944.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffcc;font-size:40px;font-family:'Microsoft JhengHei UI';"><B>{{title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:9px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Microsoft JhengHei UI Light';"><B>{{subtitle}}</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Subtitle
+panorama_CF222F42_DF90_AAE8_41AB_385404061854.subtitle = Laundry
+
+### Title
+panorama_CD918603_DF91_BA69_41DB_E31849C2FAD4.label = 2727 64th Ave SE
+panorama_CF21DF8E_DF90_AA78_41DB_2A1076098FC8.label = 2727 64th Ave SE
+panorama_CF220181_DF90_9669_41D2_181F415C77D9.label = Bedroom 1
+panorama_CF2214CF_DF93_9FF8_41E9_5CC36EB860D0.label = Entry
+panorama_CF2222A4_DF90_9BA8_4182_249BC530A45D.label = Kitchen
+panorama_CF222A18_DF93_EA67_41E1_1E05866A7E43.label = Living Room
+panorama_CF222C5D_DF93_AE98_41DC_A12F26DBCF17.label = Dining Room
+panorama_CF222F42_DF90_AAE8_41AB_385404061854.label = 2727-64th-ave-se-21
+panorama_CF223AC5_DF90_ABE8_41B8_30F1445983CF.label = Bathroom
+panorama_CF223D67_DF93_AEA8_41E9_779E8E494A08.label = Living Room
+panorama_CF2246AB_DF93_FBB8_41D9_72131A1180E0.label = Living Room
+panorama_CF224B9D_DF90_A998_41DC_EC577F237E9C.label = Kitchen
+panorama_CF225539_DF90_FE98_41C3_9E557FFD1415.label = Kitchen
+panorama_CF22686E_DF90_96BB_4197_3363DDED038F.label = Mid-Hallway
+panorama_CF226CD0_DF91_AFE8_41C5_471C37DE9802.label = Master Bedroom
+panorama_CF22891C_DF91_B698_41E7_6AC4BB1692D1.label = Bedroom 3
+panorama_CF228B33_DF91_AAA8_41D5_F4C6726BEA75.label = Living Room
+panorama_CF22B577_DF91_9EA8_414F_C652DDAF8CD4.label = Bedroom 3
+panorama_CF22BED6_DF91_EBE8_41BF_32AA0D7D7E5F.label = Hallway
+panorama_CF22D94A_DF93_96F8_41AA_A851F3CFE67A.label = Living & Dining Room
+panorama_CF22F254_DF91_FAE8_41BA_2090050F2692.label = Bedroom 3 Powder Room
+panorama_CF22F35F_DF93_9A98_41DE_FC39B41773B5.label = Living Room
+panorama_CF22F64A_DF90_7AFB_41CD_D56E3EE5253C.label = Kitchen
+panorama_CF237001_DF93_B668_418E_239D64C48CA9.label = Dining Room
+panorama_CF237FF4_DF90_69A8_41CE_8F557D36C2C9.label = Master Bedroom
+panorama_CF23B3A7_DF90_79A8_41E8_9BE69FB761ED.label = Master Bedroom
+panorama_CF23D758_DF90_9AE7_41CA_555E2F1A7CC1.label = End Hallway
+panorama_CF23DE50_DF90_AAE7_41DA_DC7A5B71EF29.label = Mid-Hallway
+panorama_CF25E119_DF93_B698_41A2_8CF760AD4932.label = Hallway
+panorama_CF26228F_DF90_9A79_41DD_E02DAF8C205C.label = 2727 64th Ave SE
+panorama_CF262752_DF90_7AEB_4199_B0533C106E8A.label = 2727 64th Ave SE
+panorama_CF262C9A_DF90_AF98_41B8_B031D9071945.label = 2727 64th Ave SE
+panorama_CF264520_DF90_FEA8_41EB_74CE289DF182.label = 2727 64th Ave SE
+panorama_CF26678C_DF90_9A78_41D8_1F41924CDEBA.label = 2727 64th Ave SE
+panorama_CF2CEA61_DF90_AAA8_41D2_16C10665AFA8.label = 2727 64th Ave SE
+video_D1A69800_CB15_A324_419D_972A71679B40.label = 3941 S Hudson St - GIF Loading Screen
+video_D2F7A8A9_CB17_E364_41B1_FCAFCD015125.label = 3941 S Hudson St - GIF Loading Screen
